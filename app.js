@@ -1,4 +1,4 @@
-var App = (function() {
+/*var App = (function() {
   var name = "John";
   return {
     getName: function() {
@@ -12,4 +12,4 @@ var App = (function() {
 
 App.getName();
 App.setName('Siva');
-App.getName();
+App.getName();*/
